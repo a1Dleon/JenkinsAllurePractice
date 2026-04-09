@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "AVy/ilYj5o0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\d.leon\\Workspace\\dotnet\\practice05\\practice05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\d.leon\\.nuget\\packages\\allure.net.commons\\2.14.1\\allure.net.commons.2.14.1.nupkg.sha512",
+    "C:\\Users\\d.leon\\.nuget\\packages\\allure.nunit\\2.14.1\\allure.nunit.2.14.1.nupkg.sha512",
+    "C:\\Users\\d.leon\\.nuget\\packages\\aspectinjector\\2.8.1\\aspectinjector.2.8.1.nupkg.sha512",
+    "C:\\Users\\d.leon\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
+    "C:\\Users\\d.leon\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",
+    "C:\\Users\\d.leon\\.nuget\\packages\\microsoft.net.test.sdk\\17.12.0\\microsoft.net.test.sdk.17.12.0.nupkg.sha512",
+    "C:\\Users\\d.leon\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.12.0\\microsoft.testplatform.objectmodel.17.12.0.nupkg.sha512",
+    "C:\\Users\\d.leon\\.nuget\\packages\\microsoft.testplatform.testhost\\17.12.0\\microsoft.testplatform.testhost.17.12.0.nupkg.sha512",
+    "C:\\Users\\d.leon\\.nuget\\packages\\mimetypesmap\\1.0.9\\mimetypesmap.1.0.9.nupkg.sha512",
+    "C:\\Users\\d.leon\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\d.leon\\.nuget\\packages\\nunit\\4.2.2\\nunit.4.2.2.nupkg.sha512",
+    "C:\\Users\\d.leon\\.nuget\\packages\\nunit.analyzers\\4.4.0\\nunit.analyzers.4.4.0.nupkg.sha512",
+    "C:\\Users\\d.leon\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512",
+    "C:\\Users\\d.leon\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\d.leon\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
